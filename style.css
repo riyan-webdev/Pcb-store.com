@@ -1,0 +1,88 @@
+#hdd{
+
+    background-image: url(imges/bannarlogo.jpeg);
+    width: auto;
+    height: 500px;
+}
+
+#text4{
+    text-align: left;
+    color: aqua;
+    padding-left: 50px;
+    padding-top: 100px;
+    background-color: ;
+}
+
+
+.div1{
+    padding:30px;
+    margin: 50px;
+    background-color: aqua;
+    display: flex;
+    gap: 40px;
+    border-radius: 20px 200px 60px 50px;
+    box-shadow: 0px 0px 30px 2px #FF10F0;
+}
+
+
+.img11{
+
+    border-radius: 80px 10px 60px 20px;
+    box-shadow: 1px 10px 30px 1px blueviolet;
+}
+
+
+.btn{
+ 
+    border-radius: 80px 10px 60px 20px;
+    padding: 10px;
+    height: 50px;
+    width: 99px;
+    cursor: pointer;
+    background-color: crimson;
+    box-shadow: 1px 10px 30px 1px greenyellow ;
+    border: none;
+    color: aquamarine;
+    
+
+}
+
+.text1{
+
+    color: #FF10F0;
+}
+
+.page{
+
+    color: coral;
+
+}
+
+#form{
+
+    background-color: #FF10F0;
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    color: white;
+}
+
+#fff{
+
+    background-color: chartreuse;
+    color: brown;
+}
+
+#coll{
+
+    color: red;
+    background-color: blue;
+}
+
+
+.sub{
+
+    align-items:;
+
+    justify-content: flex-end;
+}
